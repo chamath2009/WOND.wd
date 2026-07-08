@@ -1,0 +1,6 @@
+{
+  "name": "WOND.WD",
+  "description": "Safe Products. Smart Shopping. Premium luxury affiliate e-commerce marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
