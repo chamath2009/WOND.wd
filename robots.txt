@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wondwd.shadod539.workers.dev/sitemap.xml
